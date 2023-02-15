@@ -5,6 +5,8 @@ This is meant to provide basic info on what is working and what isn't working
 
 [Discord](https://discord.com/invite/v3AuK92)
 
+https://tree.taiga.io/project/lrutjens-gog-modding-progress/kanban
+
 ________________________________________________________
 # TODO
 
