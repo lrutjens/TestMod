@@ -39,4 +39,4 @@ In no particular order
 
 -Add mod download intergration with mod.io
 
--Streamline installation 
+-Streamline Installation 
