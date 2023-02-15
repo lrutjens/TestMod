@@ -25,7 +25,7 @@
       <HintPath>../dependencies/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule">
-      <HintPath>C:\Users\lrutj\Downloads\com.TrassGames.GodsOfGravity\files\melonloader\etc\assembly_generation\Cpp2IL\cpp2il_out\UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>../dependencies/UnityEngine.AssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>../dependencies/UnityEngine.CoreModule.dll</HintPath>
