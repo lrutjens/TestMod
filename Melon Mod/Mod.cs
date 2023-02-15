@@ -31,8 +31,7 @@ namespace DebugMod
         public override void OnApplicationStart()
         {
             MelonLogger.Msg("If you see this, that means the mod has successfully started");
-            
-
+            LoadAssetBundle();
         }
 
         /*public override void OnLateApplicationStart()
