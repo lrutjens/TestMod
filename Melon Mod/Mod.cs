@@ -8,7 +8,7 @@ namespace DebugMod
 {
     public class TestMod : MelonMod
     {
-        public void LoadAssetBundle()
+        /*public void LoadAssetBundle()
         {
             //Load the assetBundle
             string path = Path.Combine(Application.streamingAssetsPath, "models.xwing");
@@ -28,7 +28,7 @@ namespace DebugMod
         {
             MelonLogger.Msg("If you see this, that means the mod has successfully started");
             LoadAssetBundle();
-        }
+        }*/
 
         /*public override void OnLateApplicationStart()
         {
