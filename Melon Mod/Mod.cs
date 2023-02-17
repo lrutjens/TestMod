@@ -39,6 +39,7 @@ namespace DebugMod
         {
             if (Input.GetKeyDown(KeyCode.F1))
             {
+                int i;
                 while (i < 10)
                 {
                     TeamManager.instance.GetTeam(1).TryProduceShip();
